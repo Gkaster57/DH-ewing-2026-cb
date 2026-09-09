@@ -94,7 +94,7 @@ navbar-background: bg-dark
 bootswatch: yeti
 
 # THEME FONTS
-base-font-size: 1.1em
+base-font-size: 1.6em
 text-color: "#191919"
 link-color: "#0d6efd"
 base-font-family: '"Oswald", sans-serif;' # comment out for bootstrap defaults. e.g. Roboto
